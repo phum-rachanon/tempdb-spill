@@ -1,0 +1,14 @@
+# Office / OS
+~$*
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# SSMS / editor
+*.suo
+*.user
+.vs/
+.vscode/
+
+# exported plans & results (เก็บเฉพาะที่ตั้งใจ commit)
+*.tmp
