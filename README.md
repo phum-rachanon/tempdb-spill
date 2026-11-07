@@ -26,7 +26,7 @@
 
 ## วิธีใช้
 
-1. Restore database StackOverflow2013 บนเครื่อง lab (ห้ามรันบน production)
+1. ดาวน์โหลดและ restore database StackOverflow2013 บนเครื่อง lab (ห้ามรันบน production) — แนะนำวิธีโหลดผ่าน BitTorrent จาก [Brent Ozar: How to Download the Stack Overflow Database via BitTorrent](https://www.brentozar.com/archive/2015/10/how-to-download-the-stack-overflow-database-via-bittorrent/)
 2. เปิดโฟลเดอร์ของ EP ที่ต้องการ อ่าน `README.md`
 3. รันไฟล์ใน `sql/` ตามลำดับเลขหน้าไฟล์ ใน SSMS
 
