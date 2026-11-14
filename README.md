@@ -16,7 +16,7 @@
 | [EP0](ep00-tempdb-and-spill/) | tempdb คืออะไร และ spill เกิดจากอะไร | ✅ |
 | [EP1](ep01-memory-grant/) | Memory grant: SQL Server จอง memory ยังไง | ✅ |
 | [EP2](ep02-sort-spill/) | Sort spill | ✅ |
-| EP3 | Hash spill (+ exchange spill สั้นๆ) | 🔜 |
+| [EP3](ep03-hash-spill/) | Hash spill (+ exchange spill สั้นๆ) | ✅ |
 | EP4 | ขนาดคอลัมน์และ data type ทำให้ grant เพี้ยน | 🔜 |
 | EP5 | หา query ของเราที่ spill | 🔜 |
 | EP6 | ลำดับการแก้ spill | 🔜 |
