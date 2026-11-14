@@ -17,7 +17,7 @@
 | [EP1](ep01-memory-grant/) | Memory grant: SQL Server จอง memory ยังไง | ✅ |
 | [EP2](ep02-sort-spill/) | Sort spill | ✅ |
 | [EP3](ep03-hash-spill/) | Hash spill (+ exchange spill สั้นๆ) | ✅ |
-| EP4 | ขนาดคอลัมน์และ data type ทำให้ grant เพี้ยน | 🔜 |
+| [EP4](ep04-column-size-and-grant/) | ขนาดคอลัมน์และ data type ทำให้ grant เพี้ยน | ✅ |
 | EP5 | หา query ของเราที่ spill | 🔜 |
 | EP6 | ลำดับการแก้ spill | 🔜 |
 | EP7 | ทำไมรันซ้ำแล้วไม่ spill (memory grant feedback) | 🔜 |
