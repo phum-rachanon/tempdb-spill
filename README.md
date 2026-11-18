@@ -19,10 +19,7 @@
 | [EP3](ep03-hash-spill/) | Hash spill (+ exchange spill สั้นๆ) | ✅ |
 | [EP4](ep04-column-size-and-grant/) | ขนาดคอลัมน์และ data type ทำให้ grant เพี้ยน | ✅ |
 | [EP5](ep05-find-my-spilling-query/) | หา query ของเราที่ spill | ✅ |
-| EP6 | ลำดับการแก้ spill | 🔜 |
-| EP7 | ทำไมรันซ้ำแล้วไม่ spill (memory grant feedback) | 🔜 |
-| EP8 | จองเกินก็เป็นปัญหา และเมื่อ 50 คนเรียกพร้อมกัน | 🔜 |
-| EP9 | Capstone: ไล่เคส spill ตั้งแต่ต้นจนจบ | 🔜 |
+| [EP6](ep06-fix-order/) | ลำดับการแก้ spill (ตอนจบซีรีส์) | 🔜 |
 
 ## วิธีใช้
 
