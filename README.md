@@ -19,7 +19,7 @@
 | [EP3](ep03-hash-spill/) | Hash spill (+ exchange spill สั้นๆ) | ✅ |
 | [EP4](ep04-column-size-and-grant/) | ขนาดคอลัมน์และ data type ทำให้ grant เพี้ยน | ✅ |
 | [EP5](ep05-find-my-spilling-query/) | หา query ของเราที่ spill | ✅ |
-| [EP6](ep06-fix-order/) | ลำดับการแก้ spill (ตอนจบซีรีส์) | 🔜 |
+| [EP6](ep06-fix-order/) | ลำดับการแก้ spill (ตอนจบซีรีส์) | ✅ |
 
 ## วิธีใช้
 
